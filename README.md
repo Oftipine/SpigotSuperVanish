@@ -13,7 +13,7 @@ YOU CAN CHECK OUT THE OWNER'S PAGE HERE: https://github.com/LeonMangler
 
 Minecraft Version
 --------------
-**Compatible On Version 1.7,1.8,1.9,1.10,1.11,1.12,1.13,1.14,1.15,1.16**
+**Compatible On Version 1.7, 1.8 ,1.9 ,1.10 ,1.11 ,1.12 ,1.13, 1.14, 1.15, 1.16**
 
 SuperVanish -- A Spigot Plugin
 --------------
